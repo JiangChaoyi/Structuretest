@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.checkBoxnav{
+	width:300px;
+	float:left;
+	margin-left:10px;
+}
+.searchSubForm2{
+	right:500px;
+	padding-top:62px;
+	margin-top:170px;
+	padding-left:0;
+}
+.column li{
+	list-style:none;
+}
+

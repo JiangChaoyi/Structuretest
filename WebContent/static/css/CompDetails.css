@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#footer{
+	margin-top:-30px;
+	bottom:-330px;}
+.fullcontainer{
+	min-height:100%}
+.CompDetails{
+	table-layout:fixed;
+	width:100%;
+	margin-bottom:1em}
+.CompDetails tr{
+	height:3.2em
+}
+.CompDetails td{
+	font-size:14px
+}
+.CompDetails td,.CompDetails th{
+	padding:.3em;
+	border-bottom:solid 1px #eee}
+.CompDetails th{
+	width:13em;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	text-align:left;
+	color:#003}
+.CompDetails td select{
+	padding:.2em;
+	border:solid 1px #eee;
+	background-color:transparent}
